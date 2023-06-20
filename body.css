@@ -33,3 +33,12 @@ nav  {
     margin: 0 0 0 15px;
     padding: 20px;
 }
+
+.wolve{
+display: flex;
+}
+
+
+.text{
+    margin-left: 15px;
+}
